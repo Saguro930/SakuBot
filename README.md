@@ -1,4 +1,4 @@
-# 📢 SakuBot v0.1.0
+# 📢 SakuBot v0.1β
 DiscordでRPGを楽しむためのBotです。  
 EpicRPGの上を目指しております()
 
